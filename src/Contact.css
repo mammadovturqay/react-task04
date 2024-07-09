@@ -1,0 +1,13 @@
+.Contact {
+  margin-top: 1rem;
+}
+
+.Contact input {
+  padding: 0.5rem;
+  margin-right: 0.5rem;
+}
+
+.Contact button {
+  padding: 0.5rem 1rem;
+  margin-left: 0.5rem;
+}
